@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debojit</h1>
 <h3 align="center">A developer from India</h3>
 
-- 🔭 I’m currently working on [Wallapp](https://github.com/debojitsantra/wallapp)
+- 🔭 I’m currently working on [WallpaperApp](https://github.com/debojitsantra/WallpaperApp)
 
 - 🌱 I’m currently learning **C Advanced, Python Advanced, C++, Typescript, JavaScript**
 
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/in/debojitsantra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/debojitsantra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21654186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21654186" height="30" width="40" /></a>
-<a href="https://instagram.com/debojit.sntr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debojit.sntr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
